@@ -1,1 +1,37 @@
+[selection]
+save_to_clipboard = true
 
+[window]
+opacity=0.3
+dimensions = { columns = 100, lines = 25 }
+[font]
+normal = { family = "JetBrains Mono", style = "Regular" }
+bold = { family = "JetBrains Mono", style = "Bold" }
+italic = { family = "JetBrains Mono", style = "Italic" }
+bold_italic = { family = "JetBrains Mono", style = "Bold Italic" }
+
+size = 8.0
+
+[colors.primary]
+background = "#000000"
+foreground = "#d0d0d0"
+
+[colors.normal]
+black   = "#000000"
+red     = "#808080"
+green   = "#808080"
+yellow  = "#808080"
+blue    = "#808080"
+magenta = "#808080"
+cyan    = "#808080"
+white   = "#d0d0d0"
+
+[colors.bright]
+black   = "#404040"
+red     = "#c0c0c0"
+green   = "#c0c0c0"
+yellow  = "#c0c0c0"
+blue    = "#c0c0c0"
+magenta = "#c0c0c0"
+cyan    = "#c0c0c0"
+white   = "#ffffff"
